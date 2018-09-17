@@ -1,5 +1,8 @@
 _repo: A-Sermon-Preached-in-York-Minister-on-St-Bartholomew-s-Day-Friday-August-24-1877-on-the-Occas__52421
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hoare, Edward
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '39940'
     url: http://www.gutenberg.org/2009/agents/39940
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52421#A-Sermon-Preached-in-York-Minister-on-St-Bartholomew-s-Day-Friday-August-24-1877-on-the-Occas_
 gutenberg_issued: '2016-06-27'
 gutenberg_type: Text
 identifiers:
